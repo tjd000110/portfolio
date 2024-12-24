@@ -14,7 +14,7 @@
 ## 1. 🛫 
 
 > 
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> [프로젝트 코드]()
 
 <br />
 
