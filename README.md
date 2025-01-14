@@ -21,7 +21,7 @@
 ## 2. 1:1 채팅방 구축 프로젝트 
 
 > 
->> [프로젝트 코드]()
+>> [프로젝트 코드](https://github.com/tjd000110/private-chat-app)
 
 <br />
 
