@@ -43,4 +43,7 @@
 - 깃허브 : <a href="https://github.com/tjd000110">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
+- 노션 : <a href="https://www.notion.so/097912363397406e92d5f3aa6b25f466">
+  <img src="https://w7.pngwing.com/pngs/589/804/png-transparent-notion-logo.png" height="28px" style="margin-top: 10px" />
+  </a>
 
